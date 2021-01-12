@@ -1,0 +1,53 @@
+*¨{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.formulario-de-registro{
+    width: 428px; 
+    background: #ffffff;
+    padding: 10px;
+    margin: 301px;
+    margin-top: 180px;
+    height: 555px;
+    border-radius: 3px;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial,Helvetica, sans-serif;
+    color: black;
+    /*Border deltitulo*/
+    border: 30px solid white;
+    
+
+}
+input{
+
+        margin-bottom: 15px;
+        color: #ffffff;
+        font-size: 18px;
+        padding: 10px 10px 10px 10px;
+        width: 90%;
+      
+        /*Border para los input*/
+        border : 16px solid white;
+
+        border-bottom: 1px (#009ee3)
+}
+
+.boton{
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background: #009ee3;
+    padding: 15px;
+    /*radio del boton*/
+    border-radius: 55px;
+    /*border para el boton*/
+        border: 23px solid;
+
+ }
